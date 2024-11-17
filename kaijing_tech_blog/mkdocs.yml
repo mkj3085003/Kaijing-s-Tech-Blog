@@ -5,13 +5,16 @@ theme:
     favicon: assets/logo.jpg
 nav:
     - Home: index.md
-    - ComputerScience:
+    - ComputerScience: 
       - ComputerScience/深度学习.md
     - Mathematics: 
-      - 高等数学.md
+      - Mathematics/高等数学.md
     - Physics:
+      - Physics/量子力学.md
     - Psychology:
-    - Language:
-      - 雅思.md
+      - Psychology/心理学.md
+    - Language: 
+      - Language/雅思.md
     - Life:
+      - Life/2024.11.17成长记录.md
 
