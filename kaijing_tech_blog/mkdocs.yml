@@ -1,0 +1,17 @@
+site_name: Kaijing's Tech Blog
+theme:
+    name: dracula
+    logo: assets/logo.jpg
+    favicon: assets/logo.jpg
+nav:
+    - Home: index.md
+    - ComputerScience:
+      - ComputerScience/深度学习.md
+    - Mathematics: 
+      - 高等数学.md
+    - Physics:
+    - Psychology:
+    - Language:
+      - 雅思.md
+    - Life:
+
